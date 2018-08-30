@@ -5,6 +5,4 @@ me
 with git hub
 thank ben for
 everything
-new line
-new line
-new line
+this is now really new
